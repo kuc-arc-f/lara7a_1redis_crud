@@ -6,7 +6,7 @@
 
  date    : 2020/10/13
 
- update :
+ update : 2020/10/14
 
 ***
 
@@ -25,6 +25,7 @@ php artisan serve
 ***
 ### blog
 
+https://note.com/knaka0209/n/n9f487f37b86e
 
 ***
 
