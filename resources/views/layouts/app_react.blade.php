@@ -32,6 +32,9 @@
 					<a class="nav-link" href="/home">Home</a>
 				</li>  				
 				<li class="nav-item active">
+					<a class="nav-link"  href="/tasks">Tasks</a>
+				</li>				
+				<li class="nav-item active">
 					<a class="nav-link"  href="/react_tasks">ReactTasks</a>
 				</li>                              
 			</ul>

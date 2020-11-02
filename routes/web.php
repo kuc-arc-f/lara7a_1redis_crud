@@ -17,6 +17,8 @@ Route::get('/', function () {
 });
 
 Route::get('/tasks/test1', 'TasksController@test1');
+//Route::get('/tasks/data1', 'TasksController@data1');
+Route::resource('tasks', 'TasksController');
 Route::resource('react_tasks', 'ReactTaskController');
 
 /**************************************
