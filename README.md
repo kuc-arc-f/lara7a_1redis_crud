@@ -6,7 +6,7 @@
 
  date    : 2020/10/13
 
- update : 2020/10/14
+ update : 2020/11/02 
 
 ***
 
@@ -14,7 +14,12 @@ Laravel 7.2 + Redis,  CRUD sample
 
 ***
 ### setup
-php composer.phar create-project --prefer-dist laravel/laravel lara7a "7.2.*"
+
+php composer.phar create-project --prefer-dist laravel/laravel lara7a "7.*"
+
+* form helper
+
+php composer.phar require laravelcollective/html
 
 
 ***
